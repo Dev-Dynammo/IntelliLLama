@@ -2,9 +2,10 @@
 	"env": {
 		"browser": false,
 		"commonjs": true,
-		"es6": true,
+		"es7": true,
 		"node": true,
-		"mocha": true
+		"mocha": true,
+		"jest": true
 	},
 	"parserOptions": {
 		"ecmaVersion": 2018,
